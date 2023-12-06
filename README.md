@@ -1,6 +1,6 @@
 # Healthcare-Analysis-Using-ML
 
-Project Title: Healthcare Analysis using Machine Learning
+
 
 Project Description:
 The "Healthcare Analysis using Machine Learning" project is a dynamic exploration of healthcare data, leveraging advanced machine learning techniques. This study incorporates a range of features, including Patient_ID, Online_Follower, LinkedIn_Shared, Twitter_Shared, Facebook_Shared, Income, Education_Score, Age, First_Interaction, City_Type, and Employer_Category.
